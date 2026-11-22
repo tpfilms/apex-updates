@@ -7,5 +7,9 @@
     <link>https://github.com/tpfilms/apex-updates</link>
     <description>Updates for APEX Race Engineer</description>
     <language>en</language>
+    <item>
+      <title>APEX Update Feed Initialised</title>
+      <description>Update service configuration.</description>
+    </item>
   </channel>
 </rss>
